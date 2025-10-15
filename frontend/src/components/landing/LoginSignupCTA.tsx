@@ -25,7 +25,7 @@ const LoginSignupCTA = () => {
           </h2>
 
           <p className="text-xl text-white/90 mb-12 max-w-2xl mx-auto">
-            Join UniSphere today and never miss another opportunity to connect, learn, and grow with your university community.
+            Join TheScholarEvent today and never miss another opportunity to connect, learn, and grow with your university community.
           </p>
         </div>
 

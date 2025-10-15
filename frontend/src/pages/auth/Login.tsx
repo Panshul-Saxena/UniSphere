@@ -67,7 +67,7 @@ const Login: React.FC = () => {
                             <GraduationCap className="w-8 h-8 text-white" />
                         </div>
                         <h1 className="text-3xl font-bold text-gray-900 mb-2">Welcome Back</h1>
-                        <p className="text-gray-600">Sign in to your UniSphere account</p>
+                        <p className="text-gray-600">Sign in to your TheScholarEvent account</p>
                     </div>
 
                     <form onSubmit={handleSubmit(onSubmit)} className="space-y-6">

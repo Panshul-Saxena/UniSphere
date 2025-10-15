@@ -27,7 +27,7 @@ const Footer = () => {
               <div className="bg-gradient-to-r from-blue-600 to-purple-600 p-2 rounded-lg">
                 <GraduationCap className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold">UniSphere</span>
+              <span className="text-xl font-bold">TheScholarEvent</span>
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Connecting university communities through innovative event management and discovery.
@@ -37,7 +37,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-gray-400">
                 <Mail className="h-4 w-4 text-blue-400" />
-                <span className="text-sm">info@unisphere.edu</span>
+                <span className="text-sm">info@TheScholarEvent.edu</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-400">
                 <Phone className="h-4 w-4 text-blue-400" />
@@ -128,7 +128,7 @@ const Footer = () => {
         <div className="mt-12 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2024 UniSphere. All rights reserved.
+              © 2024 TheScholarEvent. All rights reserved.
             </div>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-white transition-colors duration-200">
